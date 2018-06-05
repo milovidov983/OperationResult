@@ -1,4 +1,4 @@
-# OperationResult
+# OperationResult class
 ## Wrapper for the returned data
 
 ### EN
